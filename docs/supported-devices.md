@@ -207,6 +207,7 @@
 | 210Y | 欧井除湿机 OJ-123E | 浙江欧伦 | 除湿机 |
 | ZG2N | 迈腾智能开关（电池版）2键 | 华为（HUAWEI） | 智能开关 |
 | 107J | 遥看小苹果红外网关 | 深圳遥看（YKK） | 红外网关 |
+| 2MLE | IAM 智能净化加湿一体机 U7 | 艾恩科技集团（IAM） | 空气净化器 |
 ## 维护规则
 
 新增单品时，在 `custom_components/huawei_smarthome/device_adapters/` 增加对应的 `prod_<prodId>.py`，并同步更新本表。重复 `prodId` 不应新增第二个适配器文件。
